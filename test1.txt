@@ -2,4 +2,8 @@ lxllxl
 
 修改 test1
 
+<<<<<<< HEAD
 ---------adfhsfhsfoshfslkh-----
+=======
+冲突1：先提交代码
+>>>>>>> 5e1f300a38a47a69895c4272da67ae7afca86261
